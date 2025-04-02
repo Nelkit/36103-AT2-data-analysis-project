@@ -17,3 +17,6 @@ Once you have made modifications, commit them to the branch that has your name.
 ![Commit Changes](https://raw.githubusercontent.com/Nelkit/36103-AT2-data-analysis-project/master/images/commit_changes.gif)
 
 Now your modifications are successfully saved in the repository!
+
+---
+**Alternatively, you can make changes in your local environment and commit them to the repository from your computer.**

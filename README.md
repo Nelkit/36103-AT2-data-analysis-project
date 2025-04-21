@@ -1,52 +1,22 @@
-# To-Do List: Assessment Task 2 - Data Analysis Project
+# Assessment Task 2 - Data Analysis Project
+## How to open this project with Google Colab
 
-## 📅 Key Dates
+### 1. Open Colab Notebook from GitHub
+To open a Jupyter Notebook from GitHub in Google Colab, follow these steps:
 
-- **AT2B - Presentation:** Saturday, May 3 (online)
-- **AT2C - Report:** Sunday, May 11 (11:59 pm, PDF submission on Canvas)
+![Open Notebook](https://raw.githubusercontent.com/Nelkit/36103-AT2-data-analysis-project/master/images/open_notebook.gif)
 
-## 📌 Tasks
+### 2. Copy Dataset to the Notebook Folder in Google Colab
+To use a dataset in the notebook, follow these steps:
 
-### 📝 AT2B - Project Presentation (15%)
+![Add Data](https://raw.githubusercontent.com/Nelkit/36103-AT2-data-analysis-project/master/images/add_data_to_notebook.png)
 
-- [X]  **Define the research topic**
-- [ ]  **Define research questions**
-- [ ]  **Conduct data analysis**
-    - [x]  Select appropriate datasets
-    - [ ]  Data Loading and Overview
-    - [ ]  Conduct a Exploratory Data Analysis
-    - [ ]  Data Preprocessing
-    - [ ]  Feature Engineering
-    - [ ]  Apply statistical and modeling methods
-    - [ ]  Generate visualizations that are easy to understand
-- [ ]  **Prepare the presentation**
-    - [ ]  Create clear and concise slides
-    - [ ]  Focus on the audience (non-technical decision-makers)
-    - [ ]  Include effective visualizations
-    - [ ]  Ensure the message is clear and relevant
-- [ ]  **Practice the team presentation**
-    - [ ]  Adjust timing and flow
-    - [ ]  Review clarity and coherence of the speech
-- [ ]  **Upload the PPT file to canvas** 
-- [ ]  **Deliver the online presentation**
+### 3. Commit Changes to the Correct Branch in GitHub
+Once you have made modifications, commit them to the branch that has your name.
 
-### 📄 AT2C - Technical Project Report (15%)
+![Commit Changes](https://raw.githubusercontent.com/Nelkit/36103-AT2-data-analysis-project/master/images/commit_changes.gif)
 
-- [ ]  **Structure the report**
-    - [ ]  Executive summary (brief and clear explanation for non-technical readers)
-    - [ ]  Introduction (context and relevance of the problem)
-    - [ ]  Methodology (details on datasets and techniques used)
-    - [ ]  Results (key findings)
-    - [ ]  Conclusion (summary and possible applications)
-- [ ]  **Include key elements**
-    - [ ]  Use correct terminology and appropriate statistics
-    - [ ]  Include at least one regression model
-    - [ ]  Visualizations and tables with clear descriptions
-    - [ ]  Cite external sources (datasets, literature, etc.)
-    - [ ]  Appendix with well-documented code
-- [ ]  **Final review before submission**
-    - [ ]  Spell and grammar check
-    - [ ]  Readable formatting (headings, appropriate fonts, clear structure)
-    - [ ]  Convert to PDF and submit on Canvas
+Now your modifications are successfully saved in the repository!
 
-✅ **Goal:** Execute a full data science project, communicate findings to different audiences, and improve teamwork skills.
+---
+**Alternatively, you can make changes in your local environment and commit them to the repository from your computer.**
